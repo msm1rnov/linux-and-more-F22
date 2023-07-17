@@ -1,1 +1,0 @@
-https://python.land/virtual-environments/virtualenv
